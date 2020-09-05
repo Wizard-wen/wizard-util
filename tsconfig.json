@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "module": "es6",
+    "moduleResolution": "node",
+    "allowJs": false,
+    "declaration": true,
+    "target": "es2020"
+  }
+}

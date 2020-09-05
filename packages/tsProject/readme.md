@@ -1,0 +1,6 @@
+# typescript
+
+
+```
+    tsc index.ts
+```
